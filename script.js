@@ -10,13 +10,13 @@ console.log("I would say the assignments helped aid my learning process. I enjoy
 // change about the course?
 
 console.log("What would you change about the course?");
-console.log("");
+console.log("I think it would be interesting to have more advanced material towards the end of the course.");
 
 // 3. Write a console.log() statement that answers the following question: Did you learn
 // what you expected to learn in this course?
 
 console.log("Did you learn what you expected to learn in this course?");
-console.log("");
+console.log("I think I maybe expected to learn a bit beyond the course material but generally speaking, yes.");
 
 // 4. Write a console.log() statement that answers the following question: What concepts
 // were new to you and what concepts had you encountered already in the past?
