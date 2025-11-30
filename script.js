@@ -24,4 +24,4 @@ console.log("");
 console.log(
   "What concepts were new to you and what concepts had you encountered already in the past?"
 );
-console.log("");
+console.log("Some concepts that were new to me were certain parts of event handling like web workers and debouncing. Concepts I was already familiar with was objects and most of what was covered at the beginning of the course.");
